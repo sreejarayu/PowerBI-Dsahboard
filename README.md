@@ -59,4 +59,32 @@ Data cleaning and modeling were performed entirely in Power BI using Power Query
 The dashboard is also formatted for mobile view using Power BI's Mobile Layout feature.
 
 ## 📎 Project Structure
+📁 Zomato_Cuisine_Insights
+│
+├── 📊 Zomato_Cuisine_Insights.pbix
+├── 📄 README.md
+├── 📂 Images/
+│ ├── overview.png
+│ ├── ratings_cost.png
+│ ├── cuisines.png
+│ └── filters_drilldowns.png
+└── 📄 Final_Report.pdf
+
+
+## 🚀 Business Value
+
+This dashboard enables:
+- Quick identification of top-performing restaurants and cuisines
+- Analysis of service types (online delivery and table booking)
+- Cost comparison across cities
+- Strategic insights into global restaurant operations
+
+**Sreeja Rayudu**  
+*Data Analyst | Power BI Enthusiast | Python, SQL, ML, and Data Visualization*
+
+---
+
+📢 _For questions, collaboration, or feedback, feel free to open an issue or contact me directly._
+
+
 
